@@ -42,7 +42,7 @@
 ![Screenshot 2025-05-02 at 1 25 36 PM](https://github.com/user-attachments/assets/fb7d08a2-9488-48e9-9a8d-461785d67de6)
 
 
-*This screenshot shows the architecture of the entire CI/CD deployment pipeline**.
+*This screenshot below shows the architecture of the entire CI/CD deployment pipeline**.
 ![Screenshot 2025-05-02 at 1 26 16 PM](https://github.com/user-attachments/assets/fb93f82f-f055-4bc9-9ee2-2bd49468912d)
 
 
