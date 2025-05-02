@@ -121,7 +121,7 @@ The application is designed with **Microservices Architecture** and deployed on 
 
 
 ### 4. **ArgoCD Deployment on AWS**  
-*This screenshot shows the registered microservices on Eureka, deployed on **AWS EKS (EC2 worker nodes)**.
+*This screenshot shows the registered microservices on Eureka, deployed on **AWS EKS (EC2 worker nodes)** *.
 ![Screenshot 2025-04-30 at 6 12 49 PM](https://github.com/user-attachments/assets/ebd4df9c-6904-4173-a3a5-cb0eb897688c)
 
 ### 5 **Final Application**
