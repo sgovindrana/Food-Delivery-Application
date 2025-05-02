@@ -1,16 +1,17 @@
 # Food Delivery Application
 
-**Quick Repo Map – jump straight to the code you need:**
+> **Quick Repo Map – jump straight to the code you need:**
 
 | Layer | Repository | What you’ll find there |
 |-------|------------|------------------------|
-| **Frontend UI** | [food‑delivery‑application‑fe](https://github.com/sgovindrana/food-delivery-application-fe) | Angular 16 client – browse menus, add to cart, place orders |
-| **Eureka Service Registry** | [eureka‑service](https://github.com/sgovindrana/eureka-service) | Eureka server for micro‑service discovery |
-| **Food Catalogue MS** | [food‑catalogue‑microservice](https://github.com/sgovindrana/food-catalogue-microservice) | Menu & item management |
-| **Order MS** | [order‑microservice](https://github.com/sgovindrana/order-microservice) | Order placement; MongoDB persistence |
-| **User MS** | [userinfo‑microservice](https://github.com/sgovindrana/userinfo-microservice) | Profiles, authentication, cart handling |
-| **Restaurant Listing MS** | [restaurant‑listing‑microservice](https://github.com/sgovindrana/restaurant-listing-microservice) | Restaurant metadata & search |
-| **CI/CD & K8s Manifests** | [deployment‑configurations](https://github.com/sgovindrana/deployment-configurations) | Jenkins → SonarQube → Docker/ECR → ArgoCD → AWS EKS pipeline |
+| **Frontend UI** | [food‑delivery‑application‑fe](https://github.com/sgovindrana/food-delivery-application-fe) | Angular 16 client – lists all restaurants, displays menus, manages cart, and places orders |
+| **Eureka Service Registry** | [eureka‑service](https://github.com/sgovindrana/eureka-service) | Eureka server for micro‑service discovery |
+| **Restaurant Listing MS** | [restaurant‑listing‑microservice](https://github.com/sgovindrana/restaurant-listing-microservice) | Lists restaurants on the UI; returns restaurant details, address, and metadata |
+| **Food Catalogue MS** | [food‑catalogue‑microservice](https://github.com/sgovindrana/food-catalogue-microservice) | Provides a selected restaurant’s full menu and restaurant details to the UI |
+| **User MS** | [userinfo‑microservice](https://github.com/sgovindrana/userinfo-microservice) | Stores user profiles (ID, name, password, delivery address) and cart information |
+| **Order MS** | [order‑microservice](https://github.com/sgovindrana/order-microservice) | Receives “Order Now” requests, persists order details, selected food items, restaurant info, and user ID in MongoDB |
+| **CI/CD & K8s Manifests** | [deployment‑configurations](https://github.com/sgovindrana/deployment-configurations) | Jenkins → JUnit/ SonarQube → Docker/ECR → Kubernetes manifests → ArgoCD → AWS EKS pipeline |
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -125,6 +126,10 @@ The application is designed with **Microservices Architecture** and deployed on 
 
 ### 5 **Final Application**
 ![Screenshot 2025-04-17 at 5 20 59 PM](https://github.com/user-attachments/assets/dac9a3d2-3368-44d1-9d4f-99a92b90c233)
+![Screenshot 2025-05-02 at 1 32 51 PM](https://github.com/user-attachments/assets/36882d8f-1a21-4628-b476-e6aa40fc172a)
+![Screenshot 2025-05-02 at 1 32 58 PM](https://github.com/user-attachments/assets/078d9f58-e70c-470c-9ca4-35b8cd843a2a)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ### Other Miscellaneous Screenshots
@@ -134,7 +139,7 @@ The application is designed with **Microservices Architecture** and deployed on 
 ![Screenshot 2025-04-29 at 4 28 39 PM](https://github.com/user-attachments/assets/dc46802d-a6f2-460f-840b-978e0e7cbb68)
 
 ### Docker Hub 
-*This screenshot shows the Multiple Docker Images with their Latesh Version.*
+*This screenshot shows the Multiple Docker Images with their Latest Version.*
 ![Screenshot 2025-05-01 at 6 49 31 PM](https://github.com/user-attachments/assets/f034a452-c30c-4663-ad6e-c01bfd20dce9)
 
 -----------------------------------------------------------------------------------------------------------------------------------
