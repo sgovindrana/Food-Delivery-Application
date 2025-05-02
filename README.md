@@ -21,7 +21,7 @@
 ## Technologies Used
 
 - **Frontend**:  
-  - **Angular 16**, **TypeScript**,  **Javacript**, **HTML5**, **CSS3**
+  - **Angular 16**, **TypeScript**,  **JavaScript**, **HTML5**, **CSS3**
   
 - **Backend**:  
   - **Java 17**, **Spring Boot**, **Microservices**, **Hibernate**, **Junit Test Case (Code Coverage > 80%)**
