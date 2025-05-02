@@ -177,6 +177,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-For questions or inquiries, please contact Govind Rana at s.govindrana@gmail.com.
+For questions or inquiries, please contact **Govind Rana** at **s.govindrana@gmail.com**.
 
-Thank you for using the Food Delivery Application ! :)
+Thank you for using the **SFood Delivery Application!* :)
