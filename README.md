@@ -27,7 +27,7 @@
   - **Java 17**, **Spring Boot**, **Microservices**, **Hibernate**, **Junit Test Case (Code Coverage > 80%)**
   
 - **Databases**:  
-  - **MySQL (RDS)**, **MongoDB (Atlas, MongoCompass)**
+  - **RDBMS - MySQL (RDS)**, **NoSQL - MongoDB (Atlas, MongoCompass)**
   
 - **CI/CD**:  
   - **Jenkins** (Continuous Integration), **SonarQube** (Code Quality), **ArgoCD** (Continuous Deployment)
@@ -36,7 +36,7 @@
   - **Docker**, **Kubernetes (AWS EKS on EC2)**
 
 - **Cloud**:  
-  - **AWS (IAM, EC2, RDS, EKS)**
+  - **AWS (IAM, RDS, EC2, ALB, EKS)**
 -----------------------------------------------------------------------------------------------------------------------------------
 ## Application Architecture
 
