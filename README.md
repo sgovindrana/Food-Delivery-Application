@@ -111,7 +111,7 @@ The application is designed with **Microservices Architecture** and deployed on 
 ![Screenshot 2025-05-01 at 6 46 55 PM](https://github.com/user-attachments/assets/6d62826c-a89c-4818-aabd-9e1ae432509f)
 
 ### 2. **Jenkins CI Pipeline**  
-*This screenshot shows the Jenkins CI pipeline running the build, tests, and SonarQube code analysis.*
+*This screenshot shows the Jenkins CI pipeline running the build, tests, and SonarQube code analysis (Code Coverage > 80%).*
 ![Screenshot 2025-05-01 at 6 49 00 PM](https://github.com/user-attachments/assets/7fa48229-b6b1-431a-8a0a-ba21bb10aeea)
 ![Screenshot 2025-04-29 at 3 41 57 PM](https://github.com/user-attachments/assets/4ae4a3d7-57a5-4cbf-a997-196960efb66e)
 
