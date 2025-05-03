@@ -135,7 +135,7 @@ The application is designed with **Microservices Architecture** and deployed on 
 ### Other Miscellaneous Screenshots
 
 ### Junit Test Case ( Code Coverage More Than 80% )
-*This screenshot shows the Multiple Junit Test Cases with Code Coverage more than 80%.*
+*This screenshot shows the Multiple Junit Test Cases with Code Coverage %.*
 ![Screenshot 2025-04-29 at 4 28 39 PM](https://github.com/user-attachments/assets/dc46802d-a6f2-460f-840b-978e0e7cbb68)
 
 ### Docker Hub 
