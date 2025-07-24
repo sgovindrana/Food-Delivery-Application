@@ -24,7 +24,7 @@
   - **Angular 16**, **TypeScript**,  **JavaScript**, **HTML5**, **CSS3**
   
 - **Backend**:  
-  - **Java 17**, **Spring Boot**, **Microservices**, **Hibernate**, **Junit Test Case (Code Coverage > 75%)**
+  - **Java 17**, **Spring Boot**, **Microservices**, **Hibernate**, **Junit5 Test Case (Code Coverage > 75%)**
   
 - **Databases**:  
   - **RDBMS - MySQL (RDS)**, **NoSQL - MongoDB (Atlas, MongoCompass)**
@@ -135,7 +135,7 @@ The application is designed with **Microservices Architecture** and deployed on 
 
 ### Other Miscellaneous Screenshots
 
-### Junit Test Case ( Code Coverage More Than 75% )
+### Junit5 Test Case ( Code Coverage More Than 75% )
 *This screenshot shows the Multiple Junit Test Cases with Code Coverage %.*
 ![Screenshot 2025-04-29 at 4 28 39 PM](https://github.com/user-attachments/assets/dc46802d-a6f2-460f-840b-978e0e7cbb68)
 
